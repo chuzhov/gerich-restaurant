@@ -1,3 +1,5 @@
-import images from './images';
+import { images } from './images';
+import { wines } from './data';
+import { cocktails } from './data';
 
-export default images;
+export { images, wines, cocktails };

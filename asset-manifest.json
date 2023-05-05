@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/gerich-restaurant/static/css/main.94deabd0.css",
-    "main.js": "/gerich-restaurant/static/js/main.c47c1a3d.js",
+    "main.js": "/gerich-restaurant/static/js/main.91fb79a2.js",
     "static/media/bg.png": "/gerich-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/gerich-restaurant/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/knife.png": "/gerich-restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/G.png": "/gerich-restaurant/static/media/G.b571eb82e589ec305ec9.png",
     "index.html": "/gerich-restaurant/index.html",
     "main.94deabd0.css.map": "/gerich-restaurant/static/css/main.94deabd0.css.map",
-    "main.c47c1a3d.js.map": "/gerich-restaurant/static/js/main.c47c1a3d.js.map"
+    "main.91fb79a2.js.map": "/gerich-restaurant/static/js/main.91fb79a2.js.map"
   },
   "entrypoints": [
     "static/css/main.94deabd0.css",
-    "static/js/main.c47c1a3d.js"
+    "static/js/main.91fb79a2.js"
   ]
 }

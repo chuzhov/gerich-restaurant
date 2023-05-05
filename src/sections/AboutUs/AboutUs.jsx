@@ -1,7 +1,7 @@
 import React from 'react';
 
 import images from '../../constants';
-//import './AboutUs.css';
+import './AboutUs.css';
 
 const AboutUs = () => (
   <section

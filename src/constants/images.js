@@ -1,7 +1,9 @@
 import gericht from '../assets/gericht.png';
 import bg from '../assets/bg.png';
 
-export default {
+const images = {
   bg,
   gericht,
 };
+
+export default images;

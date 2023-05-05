@@ -1,3 +1,9 @@
+## Coming soon: 
+# Here You will see Gerich Restaurant website
+
+
+
+
 # React homework template
 
 Этот проект был создан при помощи

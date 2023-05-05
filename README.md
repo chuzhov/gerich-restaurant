@@ -2,6 +2,7 @@
 # Here You will see Gerich Restaurant website
 
 
+<img width="199" alt="gericht" src="https://user-images.githubusercontent.com/111654282/236456771-fae92842-4cc8-458e-8dff-786cd115d5b1.png">
 
 
 # React homework template

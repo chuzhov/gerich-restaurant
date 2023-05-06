@@ -6,6 +6,7 @@ import AboutUs from 'sections/AboutUs/AboutUs';
 import SpecialMenu from 'sections/SpecialMenu/SpecialMenu';
 
 import './App.css';
+import Chef from 'sections/Chef/Chef';
 
 const App = () => (
   <div>
@@ -13,6 +14,7 @@ const App = () => (
     <Header />
     <AboutUs />
     <SpecialMenu />
+    <Chef />
   </div>
 );
 

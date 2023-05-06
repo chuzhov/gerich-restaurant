@@ -7,6 +7,7 @@ import SpecialMenu from 'sections/SpecialMenu/SpecialMenu';
 
 import './App.css';
 import Chef from 'sections/Chef/Chef';
+import Intro from 'sections/Intro/Intro';
 
 const App = () => (
   <div>
@@ -15,6 +16,7 @@ const App = () => (
     <AboutUs />
     <SpecialMenu />
     <Chef />
+    <Intro />
   </div>
 );
 

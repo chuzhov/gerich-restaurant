@@ -9,6 +9,7 @@ import './App.css';
 import Chef from 'sections/Chef/Chef';
 import Intro from 'sections/Intro/Intro';
 import Laurels from 'sections/Laurels/Laurels';
+import Gallery from 'sections/Gallery/Gallery';
 
 const App = () => (
   <div>
@@ -19,6 +20,7 @@ const App = () => (
     <Chef />
     <Intro />
     <Laurels />
+    <Gallery />
   </div>
 );
 

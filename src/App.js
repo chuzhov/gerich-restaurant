@@ -10,6 +10,7 @@ import Chef from 'sections/Chef/Chef';
 import Intro from 'sections/Intro/Intro';
 import Laurels from 'sections/Laurels/Laurels';
 import Gallery from 'sections/Gallery/Gallery';
+import FindUs from 'sections/FindUs/FindUs';
 
 const App = () => (
   <div>
@@ -21,6 +22,7 @@ const App = () => (
     <Intro />
     <Laurels />
     <Gallery />
+    <FindUs />
   </div>
 );
 

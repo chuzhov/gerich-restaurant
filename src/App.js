@@ -11,6 +11,7 @@ import Intro from 'sections/Intro/Intro';
 import Laurels from 'sections/Laurels/Laurels';
 import Gallery from 'sections/Gallery/Gallery';
 import FindUs from 'sections/FindUs/FindUs';
+import Footer from 'sections/Footer/Footer';
 
 const App = () => (
   <div>
@@ -23,6 +24,7 @@ const App = () => (
     <Laurels />
     <Gallery />
     <FindUs />
+    <Footer />
   </div>
 );
 
